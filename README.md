@@ -1,5 +1,4 @@
 ### Hi there 👋, Soy Yeraldin Espinosa
-#### Frontend | UX/UI 
 #### Frontend | UX/UI ![Banner de YeralTech](./banner.png)
 Trabaje por varios años en el área de  ventas y decidí hacer una transición al área del Diseño y programación Web centrándome especialmente en diseño UX/UI y Frontend. Mi verdadera motivación surge de un profundo interés por el diseño y la creación de experiencias visuales cautivadoras. Encuentro inspiración en la posibilidad de aportar detalles significativos y construir soluciones que no solo sean funcionales, sino también estéticamente atractivas, para que las personas las utilicen y las disfruten. 
 
